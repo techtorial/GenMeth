@@ -25,4 +25,6 @@ public class Config {
 		String value = properties.getProperty(key);
 		return value;
 	}
+	
+	
 }
